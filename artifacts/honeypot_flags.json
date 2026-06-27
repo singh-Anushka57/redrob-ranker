@@ -1,0 +1,1039 @@
+{
+  "CAND_0000848": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0001022": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0001543": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0001610": [
+    "expert_breadth:9"
+  ],
+  "CAND_0002025": [
+    "expert_breadth:11"
+  ],
+  "CAND_0002078": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0002330": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0003152": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0003599": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0004012": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0004112": [
+    "impossible_tenure:Krutrim_start=2019_founded=2023"
+  ],
+  "CAND_0004678": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0004964": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0005191": [
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023"
+  ],
+  "CAND_0005269": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0005509": [
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023"
+  ],
+  "CAND_0005649": [
+    "expert_breadth:8"
+  ],
+  "CAND_0006342": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0006557": [
+    "expert_breadth:8"
+  ],
+  "CAND_0006567": [
+    "expert_breadth:8"
+  ],
+  "CAND_0006687": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0006794": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0007009": [
+    "expert_breadth:10"
+  ],
+  "CAND_0007330": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0007353": [
+    "tenure_inflation:total=251mo,yoe=9.9yr"
+  ],
+  "CAND_0007460": [
+    "expert_breadth:8"
+  ],
+  "CAND_0008049": [
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023"
+  ],
+  "CAND_0008186": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0008425": [
+    "expert_breadth:11"
+  ],
+  "CAND_0008960": [
+    "tenure_inflation:total=271mo,yoe=10.3yr"
+  ],
+  "CAND_0009014": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0009081": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0009837": [
+    "expert_breadth:9"
+  ],
+  "CAND_0010294": [
+    "tenure_inflation:total=220mo,yoe=8.0yr"
+  ],
+  "CAND_0010634": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0011263": [
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023"
+  ],
+  "CAND_0011327": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0011412": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0011432": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0011522": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0011687": [
+    "impossible_tenure:Krutrim_start=2018_founded=2023"
+  ],
+  "CAND_0011707": [
+    "impossible_tenure:Krutrim_start=2021_founded=2023"
+  ],
+  "CAND_0011801": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0012180": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0013536": [
+    "expert_breadth:9"
+  ],
+  "CAND_0013599": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0013939": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0014063": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0015097": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0015396": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0015528": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0015620": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0015932": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0016058": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0016170": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0016233": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0016657": [
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023"
+  ],
+  "CAND_0017038": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0017948": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0017960": [
+    "impossible_tenure:Sarvam AI_start=2018_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2018_founded=2023"
+  ],
+  "CAND_0017985": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0018013": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0018175": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0018262": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0018293": [
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023"
+  ],
+  "CAND_0018499": [
+    "expert_breadth:9"
+  ],
+  "CAND_0018515": [
+    "tenure_inflation:total=211mo,yoe=8.5yr"
+  ],
+  "CAND_0018549": [
+    "expert_breadth:9"
+  ],
+  "CAND_0018701": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0019159": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0019241": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0019480": [
+    "tenure_inflation:total=87mo,yoe=2.8yr"
+  ],
+  "CAND_0020467": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0020877": [
+    "expert_breadth:9"
+  ],
+  "CAND_0021274": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0021359": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0021410": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0021994": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0022043": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0022232": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0022279": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0022812": [
+    "expert_breadth:8"
+  ],
+  "CAND_0023084": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0023214": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0023350": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0023592": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0024122": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0024585": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0024620": [
+    "expert_breadth:8"
+  ],
+  "CAND_0024878": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0025514": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0025923": [
+    "impossible_tenure:Krutrim_start=2021_founded=2023"
+  ],
+  "CAND_0026277": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0026301": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0026705": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0027446": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0027926": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0027929": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0028084": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0029170": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0029174": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0029235": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0029367": [
+    "expert_breadth:9"
+  ],
+  "CAND_0030468": [
+    "expert_breadth:9"
+  ],
+  "CAND_0030530": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0030827": [
+    "expert_breadth:9"
+  ],
+  "CAND_0031068": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0031212": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0032331": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0033232": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0033311": [
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023"
+  ],
+  "CAND_0033638": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0033842": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0033861": [
+    "expert_breadth:9",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023"
+  ],
+  "CAND_0035104": [
+    "tenure_inflation:total=162mo,yoe=5.5yr"
+  ],
+  "CAND_0035538": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0035776": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0035779": [
+    "impossible_tenure:Krutrim_start=2021_founded=2023"
+  ],
+  "CAND_0036277": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0036973": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0037000": [
+    "tenure_inflation:total=75mo,yoe=2.7yr"
+  ],
+  "CAND_0037484": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0037539": [
+    "tenure_inflation:total=115mo,yoe=4.9yr"
+  ],
+  "CAND_0037944": [
+    "expert_breadth:9"
+  ],
+  "CAND_0037980": [
+    "expert_breadth:12"
+  ],
+  "CAND_0038142": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0038302": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0038405": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0038885": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0039075": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0039132": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0039754": [
+    "expert_breadth:11"
+  ],
+  "CAND_0039942": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0040075": [
+    "tenure_inflation:total=365mo,yoe=15.0yr"
+  ],
+  "CAND_0040099": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0040117": [
+    "expert_breadth:8"
+  ],
+  "CAND_0040473": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0040853": [
+    "tenure_inflation:total=61mo,yoe=1.1yr"
+  ],
+  "CAND_0041009": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0041568": [
+    "expert_breadth:8"
+  ],
+  "CAND_0041611": [
+    "expert_breadth:10"
+  ],
+  "CAND_0042453": [
+    "tenure_inflation:total=98mo,yoe=4.2yr"
+  ],
+  "CAND_0042506": [
+    "expert_breadth:10"
+  ],
+  "CAND_0043510": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0043721": [
+    "tenure_inflation:total=108mo,yoe=4.5yr"
+  ],
+  "CAND_0044426": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0044855": [
+    "expert_breadth:9"
+  ],
+  "CAND_0044883": [
+    "expert_breadth:9"
+  ],
+  "CAND_0045250": [
+    "expert_breadth:9"
+  ],
+  "CAND_0045275": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0045566": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0046841": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0047594": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0048166": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0048303": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0048650": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0049538": [
+    "expert_breadth:8"
+  ],
+  "CAND_0049978": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0050327": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0050454": [
+    "expert_breadth:10"
+  ],
+  "CAND_0050765": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0051245": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0051615": [
+    "impossible_tenure:Krutrim_start=2021_founded=2023"
+  ],
+  "CAND_0051630": [
+    "expert_breadth:9"
+  ],
+  "CAND_0051678": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0052682": [
+    "expert_breadth:8"
+  ],
+  "CAND_0053734": [
+    "tenure_inflation:total=221mo,yoe=8.6yr"
+  ],
+  "CAND_0054035": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0054327": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0054991": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0055685": [
+    "tenure_inflation:total=64mo,yoe=1.4yr"
+  ],
+  "CAND_0056472": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0057563": [
+    "expert_breadth:8"
+  ],
+  "CAND_0057574": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0057711": [
+    "tenure_inflation:total=180mo,yoe=7.7yr"
+  ],
+  "CAND_0057987": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0058242": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0058324": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0058517": [
+    "impossible_tenure:Krutrim_start=2021_founded=2023"
+  ],
+  "CAND_0058988": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0059198": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0059520": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0060297": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0060585": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0060835": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0061156": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0061265": [
+    "expert_breadth:8"
+  ],
+  "CAND_0061339": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0061655": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0062617": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0062655": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0062856": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0063661": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0063736": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0063862": [
+    "impossible_tenure:Krutrim_start=2021_founded=2023"
+  ],
+  "CAND_0063932": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0064077": [
+    "tenure_inflation:total=237mo,yoe=10.1yr"
+  ],
+  "CAND_0064270": [
+    "expert_breadth:10"
+  ],
+  "CAND_0065032": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0065052": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0065398": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0065450": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0065701": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0065710": [
+    "tenure_inflation:total=114mo,yoe=4.4yr"
+  ],
+  "CAND_0065927": [
+    "impossible_tenure:Krutrim_start=2019_founded=2023"
+  ],
+  "CAND_0066376": [
+    "expert_breadth:10"
+  ],
+  "CAND_0066538": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0066791": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0067100": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0067183": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0067375": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0067949": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0068351": [
+    "expert_breadth:11"
+  ],
+  "CAND_0068513": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0068811": [
+    "expert_breadth:8"
+  ],
+  "CAND_0068932": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0068946": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0068975": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0069028": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0069141": [
+    "impossible_tenure:CRED_start=2017_founded=2018",
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0069248": [
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023"
+  ],
+  "CAND_0069780": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0069975": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0070189": [
+    "tenure_inflation:total=173mo,yoe=6.9yr"
+  ],
+  "CAND_0070202": [
+    "expert_breadth:8"
+  ],
+  "CAND_0070398": [
+    "expert_breadth:8"
+  ],
+  "CAND_0070612": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0070653": [
+    "impossible_tenure:Krutrim_start=2021_founded=2023"
+  ],
+  "CAND_0070808": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0071115": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0072018": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0072032": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0072232": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0072414": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0072660": [
+    "expert_breadth:9"
+  ],
+  "CAND_0073173": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0073681": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0073702": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0073737": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0073828": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0074452": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0074650": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0074735": [
+    "expert_breadth:8"
+  ],
+  "CAND_0075249": [
+    "expert_breadth:8"
+  ],
+  "CAND_0075500": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0075550": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0075574": [
+    "expert_breadth:9"
+  ],
+  "CAND_0075970": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0076030": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0076076": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0076183": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0076516": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0076904": [
+    "expert_breadth:10"
+  ],
+  "CAND_0077239": [
+    "tenure_inflation:total=180mo,yoe=7.6yr"
+  ],
+  "CAND_0077296": [
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023"
+  ],
+  "CAND_0077302": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0077337": [
+    "expert_breadth:11"
+  ],
+  "CAND_0077343": [
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023"
+  ],
+  "CAND_0077763": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0078019": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0078334": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0078492": [
+    "expert_breadth:9"
+  ],
+  "CAND_0079387": [
+    "expert_breadth:8"
+  ],
+  "CAND_0079416": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0079662": [
+    "impossible_tenure:Krutrim_start=2020_founded=2023"
+  ],
+  "CAND_0080371": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0080514": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0080766": [
+    "expert_breadth:9"
+  ],
+  "CAND_0081053": [
+    "expert_breadth:9"
+  ],
+  "CAND_0081372": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0081462": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0081480": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0081686": [
+    "expert_breadth:9"
+  ],
+  "CAND_0081746": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0081778": [
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023"
+  ],
+  "CAND_0081846": [
+    "expert_breadth:10"
+  ],
+  "CAND_0082202": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0082425": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0083307": [
+    "expert_breadth:9"
+  ],
+  "CAND_0084182": [
+    "tenure_inflation:total=299mo,yoe=12.7yr"
+  ],
+  "CAND_0084283": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0084378": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0084819": [
+    "expert_breadth:9"
+  ],
+  "CAND_0085851": [
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023"
+  ],
+  "CAND_0085973": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0086022": [
+    "expert_breadth:8"
+  ],
+  "CAND_0086642": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0086690": [
+    "impossible_tenure:CRED_start=2017_founded=2018",
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0086757": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0086966": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0087120": [
+    "impossible_tenure:Krutrim_start=2021_founded=2023"
+  ],
+  "CAND_0087665": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0087960": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0087987": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0088025": [
+    "expert_breadth:11"
+  ],
+  "CAND_0088355": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0088385": [
+    "impossible_tenure:Krutrim_start=2019_founded=2023"
+  ],
+  "CAND_0088441": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0088878": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0089406": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0089552": [
+    "expert_breadth:8"
+  ],
+  "CAND_0089702": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0091080": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0091102": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0091496": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0091653": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0091909": [
+    "expert_breadth:8"
+  ],
+  "CAND_0092105": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0092267": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0092278": [
+    "expert_breadth:10"
+  ],
+  "CAND_0093193": [
+    "expert_breadth:10"
+  ],
+  "CAND_0093364": [
+    "tenure_inflation:total=210mo,yoe=7.9yr"
+  ],
+  "CAND_0093499": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0093547": [
+    "tenure_inflation:total=74mo,yoe=2.9yr",
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2021_founded=2023"
+  ],
+  "CAND_0093556": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0094056": [
+    "expert_breadth:9"
+  ],
+  "CAND_0094223": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0094252": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0094374": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0094430": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0094449": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0095308": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0095528": [
+    "expert_breadth:8"
+  ],
+  "CAND_0095595": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0096108": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0096172": [
+    "expert_breadth:8"
+  ],
+  "CAND_0096589": [
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2022_founded=2023"
+  ],
+  "CAND_0096635": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0096747": [
+    "impossible_tenure:CRED_start=2016_founded=2018"
+  ],
+  "CAND_0096823": [
+    "impossible_tenure:Krutrim_start=2022_founded=2023"
+  ],
+  "CAND_0097115": [
+    "impossible_tenure:CRED_start=2017_founded=2018"
+  ],
+  "CAND_0099581": [
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023",
+    "impossible_tenure:Sarvam AI_start=2020_founded=2023"
+  ]
+}

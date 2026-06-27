@@ -1,0 +1,124 @@
+# Structured extraction from job_description.md
+# Edit this if you want to tune scoring weights
+
+role_title: "Senior AI Engineer"
+target_years_min: 4
+target_years_max: 12   # flexible beyond stated 5-9
+
+# --- HARD REQUIRED SKILLS (must have at least 3/5 for high skill_score) ---
+hard_required_skills:
+  - "embeddings"
+  - "sentence transformers"
+  - "vector database"
+  - "vector search"
+  - "faiss"
+  - "pinecone"
+  - "weaviate"
+  - "qdrant"
+  - "milvus"
+  - "elasticsearch"
+  - "opensearch"
+  - "retrieval"
+  - "rag"
+  - "hybrid search"
+  - "semantic search"
+  - "ranking"
+  - "recommendation systems"
+  - "information retrieval"
+  - "nlp"
+  - "python"
+  - "machine learning"
+  - "llm"
+  - "transformers"
+  - "fine-tuning"
+  - "ndcg"
+  - "evaluation"
+  - "a/b testing"
+  - "bm25"
+  - "reranking"
+
+# --- SOFT/BONUS SKILLS ---
+soft_skills:
+  - "lora"
+  - "qlora"
+  - "peft"
+  - "learning to rank"
+  - "xgboost"
+  - "pytorch"
+  - "tensorflow"
+  - "mlflow"
+  - "kubeflow"
+  - "distributed systems"
+  - "kafka"
+  - "open source"
+  - "huggingface"
+  - "haystack"
+
+# --- TITLE KEYWORDS (positive signals) ---
+good_title_keywords:
+  - "machine learning"
+  - "ml engineer"
+  - "ai engineer"
+  - "nlp"
+  - "search engineer"
+  - "data scientist"
+  - "applied scientist"
+  - "research engineer"
+  - "recommendation"
+  - "ranking"
+  - "retrieval"
+  - "software engineer"  # neutral but ok
+
+# --- DISQUALIFIER TITLES (these alone tank the score) ---
+bad_title_keywords:
+  - "hr manager"
+  - "operations manager"
+  - "marketing manager"
+  - "content writer"
+  - "accountant"
+  - "civil engineer"
+  - "mechanical engineer"
+  - "customer support"
+  - "business analyst"
+  - "project manager"
+  - "sales"
+  - "product manager"  # PM is borderline; penalize lightly
+
+# --- CONSULTING GIANTS (consulting-ONLY career = heavy penalty) ---
+consulting_companies:
+  - "tcs"
+  - "infosys"
+  - "wipro"
+  - "accenture"
+  - "cognizant"
+  - "capgemini"
+  - "hcl"
+  - "tech mahindra"
+  - "mphasis"
+  - "hexaware"
+  - "mindtree"
+  - "ltimindtree"
+  - "l&t infotech"
+  - "ibm global"
+  - "cts"
+
+# --- PREFERRED LOCATIONS ---
+preferred_locations:
+  - "noida"
+  - "pune"
+  - "hyderabad"
+  - "mumbai"
+  - "delhi"
+  - "gurgaon"
+  - "gurugram"
+  - "bangalore"
+  - "bengaluru"
+  - "ncr"
+
+# --- SCORING WEIGHTS (must sum to 1.0) ---
+weights:
+  semantic: 0.35
+  skill: 0.25
+  experience: 0.20
+  title: 0.10
+  location: 0.10

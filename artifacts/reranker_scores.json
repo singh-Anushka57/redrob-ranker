@@ -1,0 +1,2502 @@
+[
+  {
+    "candidate_id": "CAND_0033861",
+    "bge_score": 0.9012116193771362,
+    "crossencoder_score": 0.7480849623680115
+  },
+  {
+    "candidate_id": "CAND_0046064",
+    "bge_score": 0.8993954062461853,
+    "crossencoder_score": -0.10795995593070984
+  },
+  {
+    "candidate_id": "CAND_0002025",
+    "bge_score": 0.8944048881530762,
+    "crossencoder_score": -0.1912854164838791
+  },
+  {
+    "candidate_id": "CAND_0018499",
+    "bge_score": 0.9224891066551208,
+    "crossencoder_score": -0.23449194431304932
+  },
+  {
+    "candidate_id": "CAND_0039754",
+    "bge_score": 0.9180793166160583,
+    "crossencoder_score": -0.4812876880168915
+  },
+  {
+    "candidate_id": "CAND_0055905",
+    "bge_score": 0.9043937921524048,
+    "crossencoder_score": -0.5671238303184509
+  },
+  {
+    "candidate_id": "CAND_0088025",
+    "bge_score": 0.896182119846344,
+    "crossencoder_score": -0.6862583160400391
+  },
+  {
+    "candidate_id": "CAND_0005538",
+    "bge_score": 0.873481273651123,
+    "crossencoder_score": -0.7879602909088135
+  },
+  {
+    "candidate_id": "CAND_0093547",
+    "bge_score": 0.9128373861312866,
+    "crossencoder_score": -0.818358838558197
+  },
+  {
+    "candidate_id": "CAND_0006567",
+    "bge_score": 0.8726913332939148,
+    "crossencoder_score": -0.8258975744247437
+  },
+  {
+    "candidate_id": "CAND_0046525",
+    "bge_score": 0.9137641191482544,
+    "crossencoder_score": -0.9139329791069031
+  },
+  {
+    "candidate_id": "CAND_0005260",
+    "bge_score": 0.8825523853302002,
+    "crossencoder_score": -0.9756155610084534
+  },
+  {
+    "candidate_id": "CAND_0068351",
+    "bge_score": 0.8643604516983032,
+    "crossencoder_score": -0.9851394891738892
+  },
+  {
+    "candidate_id": "CAND_0081846",
+    "bge_score": 0.8961115479469299,
+    "crossencoder_score": -0.9945520758628845
+  },
+  {
+    "candidate_id": "CAND_0093912",
+    "bge_score": 0.9003011584281921,
+    "crossencoder_score": -1.1065806150436401
+  },
+  {
+    "candidate_id": "CAND_0077337",
+    "bge_score": 0.9185744524002075,
+    "crossencoder_score": -1.1490516662597656
+  },
+  {
+    "candidate_id": "CAND_0094759",
+    "bge_score": 0.8909797072410583,
+    "crossencoder_score": -1.3173589706420898
+  },
+  {
+    "candidate_id": "CAND_0041611",
+    "bge_score": 0.9076911211013794,
+    "crossencoder_score": -1.3415238857269287
+  },
+  {
+    "candidate_id": "CAND_0092278",
+    "bge_score": 0.9074242115020752,
+    "crossencoder_score": -1.3555428981781006
+  },
+  {
+    "candidate_id": "CAND_0093193",
+    "bge_score": 0.8563253879547119,
+    "crossencoder_score": -1.6399322748184204
+  },
+  {
+    "candidate_id": "CAND_0008425",
+    "bge_score": 0.8932380080223083,
+    "crossencoder_score": -1.7846794128417969
+  },
+  {
+    "candidate_id": "CAND_0086022",
+    "bge_score": 0.8645868897438049,
+    "crossencoder_score": -2.026620388031006
+  },
+  {
+    "candidate_id": "CAND_0080766",
+    "bge_score": 0.8449096083641052,
+    "crossencoder_score": -2.2270569801330566
+  },
+  {
+    "candidate_id": "CAND_0071974",
+    "bge_score": 0.8915519714355469,
+    "crossencoder_score": -2.2878451347351074
+  },
+  {
+    "candidate_id": "CAND_0030468",
+    "bge_score": 0.8283883333206177,
+    "crossencoder_score": -2.3260741233825684
+  },
+  {
+    "candidate_id": "CAND_0030031",
+    "bge_score": 0.8556910753250122,
+    "crossencoder_score": -2.352980136871338
+  },
+  {
+    "candidate_id": "CAND_0074325",
+    "bge_score": 0.8423482775688171,
+    "crossencoder_score": -2.4409995079040527
+  },
+  {
+    "candidate_id": "CAND_0062772",
+    "bge_score": 0.8119822144508362,
+    "crossencoder_score": -2.5728378295898438
+  },
+  {
+    "candidate_id": "CAND_0061257",
+    "bge_score": 0.8405188918113708,
+    "crossencoder_score": -2.5846123695373535
+  },
+  {
+    "candidate_id": "CAND_0036863",
+    "bge_score": 0.8590789437294006,
+    "crossencoder_score": -2.6768243312835693
+  },
+  {
+    "candidate_id": "CAND_0007411",
+    "bge_score": 0.8883374929428101,
+    "crossencoder_score": -2.6965842247009277
+  },
+  {
+    "candidate_id": "CAND_0066999",
+    "bge_score": 0.861028790473938,
+    "crossencoder_score": -2.7315151691436768
+  },
+  {
+    "candidate_id": "CAND_0048166",
+    "bge_score": 0.823999285697937,
+    "crossencoder_score": -2.757473945617676
+  },
+  {
+    "candidate_id": "CAND_0015065",
+    "bge_score": 0.8274316191673279,
+    "crossencoder_score": -2.818840980529785
+  },
+  {
+    "candidate_id": "CAND_0061339",
+    "bge_score": 0.8645013570785522,
+    "crossencoder_score": -2.835385322570801
+  },
+  {
+    "candidate_id": "CAND_0073633",
+    "bge_score": 0.8029823303222656,
+    "crossencoder_score": -2.8590946197509766
+  },
+  {
+    "candidate_id": "CAND_0019480",
+    "bge_score": 0.8838363885879517,
+    "crossencoder_score": -3.0333075523376465
+  },
+  {
+    "candidate_id": "CAND_0030827",
+    "bge_score": 0.8878185749053955,
+    "crossencoder_score": -3.0652828216552734
+  },
+  {
+    "candidate_id": "CAND_0040310",
+    "bge_score": 0.8132631778717041,
+    "crossencoder_score": -3.068657875061035
+  },
+  {
+    "candidate_id": "CAND_0055992",
+    "bge_score": 0.9087854623794556,
+    "crossencoder_score": -3.094989776611328
+  },
+  {
+    "candidate_id": "CAND_0041669",
+    "bge_score": 0.8797858357429504,
+    "crossencoder_score": -3.1100101470947266
+  },
+  {
+    "candidate_id": "CAND_0059795",
+    "bge_score": 0.8030838370323181,
+    "crossencoder_score": -3.1359446048736572
+  },
+  {
+    "candidate_id": "CAND_0011432",
+    "bge_score": 0.8501823544502258,
+    "crossencoder_score": -3.1510162353515625
+  },
+  {
+    "candidate_id": "CAND_0061265",
+    "bge_score": 0.8835064172744751,
+    "crossencoder_score": -3.1972131729125977
+  },
+  {
+    "candidate_id": "CAND_0006833",
+    "bge_score": 0.8274890780448914,
+    "crossencoder_score": -3.24619197845459
+  },
+  {
+    "candidate_id": "CAND_0011687",
+    "bge_score": 0.8780978918075562,
+    "crossencoder_score": -3.253809928894043
+  },
+  {
+    "candidate_id": "CAND_0019288",
+    "bge_score": 0.8281270265579224,
+    "crossencoder_score": -3.255056381225586
+  },
+  {
+    "candidate_id": "CAND_0018888",
+    "bge_score": 0.8217574954032898,
+    "crossencoder_score": -3.266353130340576
+  },
+  {
+    "candidate_id": "CAND_0020877",
+    "bge_score": 0.829740047454834,
+    "crossencoder_score": -3.2703773975372314
+  },
+  {
+    "candidate_id": "CAND_0060072",
+    "bge_score": 0.8498765230178833,
+    "crossencoder_score": -3.2975523471832275
+  },
+  {
+    "candidate_id": "CAND_0009200",
+    "bge_score": 0.8128836154937744,
+    "crossencoder_score": -3.3030619621276855
+  },
+  {
+    "candidate_id": "CAND_0081852",
+    "bge_score": 0.8566396236419678,
+    "crossencoder_score": -3.3398478031158447
+  },
+  {
+    "candidate_id": "CAND_0081321",
+    "bge_score": 0.8053076267242432,
+    "crossencoder_score": -3.3424320220947266
+  },
+  {
+    "candidate_id": "CAND_0041402",
+    "bge_score": 0.8134570121765137,
+    "crossencoder_score": -3.3986239433288574
+  },
+  {
+    "candidate_id": "CAND_0079064",
+    "bge_score": 0.864963948726654,
+    "crossencoder_score": -3.4160451889038086
+  },
+  {
+    "candidate_id": "CAND_0010257",
+    "bge_score": 0.8352196216583252,
+    "crossencoder_score": -3.4258813858032227
+  },
+  {
+    "candidate_id": "CAND_0033842",
+    "bge_score": 0.8053871393203735,
+    "crossencoder_score": -3.432140350341797
+  },
+  {
+    "candidate_id": "CAND_0005269",
+    "bge_score": 0.8145780563354492,
+    "crossencoder_score": -3.4381818771362305
+  },
+  {
+    "candidate_id": "CAND_0034849",
+    "bge_score": 0.8121378421783447,
+    "crossencoder_score": -3.4402477741241455
+  },
+  {
+    "candidate_id": "CAND_0068892",
+    "bge_score": 0.8033156394958496,
+    "crossencoder_score": -3.442652702331543
+  },
+  {
+    "candidate_id": "CAND_0076412",
+    "bge_score": 0.8023157715797424,
+    "crossencoder_score": -3.463449478149414
+  },
+  {
+    "candidate_id": "CAND_0016657",
+    "bge_score": 0.8220218420028687,
+    "crossencoder_score": -3.501617431640625
+  },
+  {
+    "candidate_id": "CAND_0046924",
+    "bge_score": 0.8133319616317749,
+    "crossencoder_score": -3.518915891647339
+  },
+  {
+    "candidate_id": "CAND_0029714",
+    "bge_score": 0.8038113713264465,
+    "crossencoder_score": -3.530257225036621
+  },
+  {
+    "candidate_id": "CAND_0076904",
+    "bge_score": 0.8920278549194336,
+    "crossencoder_score": -3.5448880195617676
+  },
+  {
+    "candidate_id": "CAND_0060315",
+    "bge_score": 0.8080205917358398,
+    "crossencoder_score": -3.551381826400757
+  },
+  {
+    "candidate_id": "CAND_0099806",
+    "bge_score": 0.9059898257255554,
+    "crossencoder_score": -3.552237033843994
+  },
+  {
+    "candidate_id": "CAND_0043958",
+    "bge_score": 0.833865761756897,
+    "crossencoder_score": -3.5560226440429688
+  },
+  {
+    "candidate_id": "CAND_0042100",
+    "bge_score": 0.8440824151039124,
+    "crossencoder_score": -3.5671982765197754
+  },
+  {
+    "candidate_id": "CAND_0068410",
+    "bge_score": 0.8072496652603149,
+    "crossencoder_score": -3.5729751586914062
+  },
+  {
+    "candidate_id": "CAND_0044855",
+    "bge_score": 0.864005446434021,
+    "crossencoder_score": -3.6398425102233887
+  },
+  {
+    "candidate_id": "CAND_0066035",
+    "bge_score": 0.808390200138092,
+    "crossencoder_score": -3.6410186290740967
+  },
+  {
+    "candidate_id": "CAND_0057563",
+    "bge_score": 0.8765848875045776,
+    "crossencoder_score": -3.655852794647217
+  },
+  {
+    "candidate_id": "CAND_0087744",
+    "bge_score": 0.8132209181785583,
+    "crossencoder_score": -3.658233165740967
+  },
+  {
+    "candidate_id": "CAND_0015528",
+    "bge_score": 0.8597084879875183,
+    "crossencoder_score": -3.676182270050049
+  },
+  {
+    "candidate_id": "CAND_0089444",
+    "bge_score": 0.8100237250328064,
+    "crossencoder_score": -3.68037748336792
+  },
+  {
+    "candidate_id": "CAND_0036437",
+    "bge_score": 0.8937013149261475,
+    "crossencoder_score": -3.685506820678711
+  },
+  {
+    "candidate_id": "CAND_0036484",
+    "bge_score": 0.8145738840103149,
+    "crossencoder_score": -3.6897075176239014
+  },
+  {
+    "candidate_id": "CAND_0065878",
+    "bge_score": 0.8613138794898987,
+    "crossencoder_score": -3.7096567153930664
+  },
+  {
+    "candidate_id": "CAND_0084819",
+    "bge_score": 0.8815965056419373,
+    "crossencoder_score": -3.7282776832580566
+  },
+  {
+    "candidate_id": "CAND_0028793",
+    "bge_score": 0.870293378829956,
+    "crossencoder_score": -3.7559781074523926
+  },
+  {
+    "candidate_id": "CAND_0005649",
+    "bge_score": 0.8884003162384033,
+    "crossencoder_score": -3.7686901092529297
+  },
+  {
+    "candidate_id": "CAND_0060054",
+    "bge_score": 0.8768112659454346,
+    "crossencoder_score": -3.804858684539795
+  },
+  {
+    "candidate_id": "CAND_0026532",
+    "bge_score": 0.8838504552841187,
+    "crossencoder_score": -3.807633876800537
+  },
+  {
+    "candidate_id": "CAND_0066376",
+    "bge_score": 0.8730010986328125,
+    "crossencoder_score": -3.8111424446105957
+  },
+  {
+    "candidate_id": "CAND_0092245",
+    "bge_score": 0.8677639961242676,
+    "crossencoder_score": -3.8272576332092285
+  },
+  {
+    "candidate_id": "CAND_0009837",
+    "bge_score": 0.8462803363800049,
+    "crossencoder_score": -3.8279261589050293
+  },
+  {
+    "candidate_id": "CAND_0081086",
+    "bge_score": 0.8033246397972107,
+    "crossencoder_score": -3.903118371963501
+  },
+  {
+    "candidate_id": "CAND_0044576",
+    "bge_score": 0.8103896379470825,
+    "crossencoder_score": -3.903512716293335
+  },
+  {
+    "candidate_id": "CAND_0092596",
+    "bge_score": 0.8158189058303833,
+    "crossencoder_score": -3.9179272651672363
+  },
+  {
+    "candidate_id": "CAND_0044222",
+    "bge_score": 0.8862930536270142,
+    "crossencoder_score": -3.920832872390747
+  },
+  {
+    "candidate_id": "CAND_0062247",
+    "bge_score": 0.8960275053977966,
+    "crossencoder_score": -3.9406790733337402
+  },
+  {
+    "candidate_id": "CAND_0018549",
+    "bge_score": 0.8776082992553711,
+    "crossencoder_score": -3.9427125453948975
+  },
+  {
+    "candidate_id": "CAND_0059520",
+    "bge_score": 0.8096888661384583,
+    "crossencoder_score": -3.946059226989746
+  },
+  {
+    "candidate_id": "CAND_0013665",
+    "bge_score": 0.8057831525802612,
+    "crossencoder_score": -3.9611563682556152
+  },
+  {
+    "candidate_id": "CAND_0066791",
+    "bge_score": 0.8131513595581055,
+    "crossencoder_score": -3.9651806354522705
+  },
+  {
+    "candidate_id": "CAND_0041568",
+    "bge_score": 0.893380880355835,
+    "crossencoder_score": -3.9654786586761475
+  },
+  {
+    "candidate_id": "CAND_0011327",
+    "bge_score": 0.8286259174346924,
+    "crossencoder_score": -4.019630432128906
+  },
+  {
+    "candidate_id": "CAND_0025046",
+    "bge_score": 0.8205209970474243,
+    "crossencoder_score": -4.023333549499512
+  },
+  {
+    "candidate_id": "CAND_0022023",
+    "bge_score": 0.8071596026420593,
+    "crossencoder_score": -4.025364398956299
+  },
+  {
+    "candidate_id": "CAND_0001610",
+    "bge_score": 0.8653962016105652,
+    "crossencoder_score": -4.0473952293396
+  },
+  {
+    "candidate_id": "CAND_0006557",
+    "bge_score": 0.8803950548171997,
+    "crossencoder_score": -4.047672271728516
+  },
+  {
+    "candidate_id": "CAND_0047721",
+    "bge_score": 0.8425978422164917,
+    "crossencoder_score": -4.051450252532959
+  },
+  {
+    "candidate_id": "CAND_0024878",
+    "bge_score": 0.8116394281387329,
+    "crossencoder_score": -4.056059837341309
+  },
+  {
+    "candidate_id": "CAND_0059440",
+    "bge_score": 0.81158447265625,
+    "crossencoder_score": -4.06087589263916
+  },
+  {
+    "candidate_id": "CAND_0076251",
+    "bge_score": 0.8781298995018005,
+    "crossencoder_score": -4.074228763580322
+  },
+  {
+    "candidate_id": "CAND_0087364",
+    "bge_score": 0.84181809425354,
+    "crossencoder_score": -4.07539176940918
+  },
+  {
+    "candidate_id": "CAND_0078002",
+    "bge_score": 0.8671934604644775,
+    "crossencoder_score": -4.099400520324707
+  },
+  {
+    "candidate_id": "CAND_0065195",
+    "bge_score": 0.8815983533859253,
+    "crossencoder_score": -4.115500450134277
+  },
+  {
+    "candidate_id": "CAND_0006538",
+    "bge_score": 0.8197294473648071,
+    "crossencoder_score": -4.116499900817871
+  },
+  {
+    "candidate_id": "CAND_0010541",
+    "bge_score": 0.8128403425216675,
+    "crossencoder_score": -4.165817737579346
+  },
+  {
+    "candidate_id": "CAND_0037944",
+    "bge_score": 0.8697147369384766,
+    "crossencoder_score": -4.174267292022705
+  },
+  {
+    "candidate_id": "CAND_0094445",
+    "bge_score": 0.8080614805221558,
+    "crossencoder_score": -4.189643859863281
+  },
+  {
+    "candidate_id": "CAND_0024620",
+    "bge_score": 0.863778829574585,
+    "crossencoder_score": -4.202152729034424
+  },
+  {
+    "candidate_id": "CAND_0011162",
+    "bge_score": 0.8590807914733887,
+    "crossencoder_score": -4.206302165985107
+  },
+  {
+    "candidate_id": "CAND_0049538",
+    "bge_score": 0.8709040284156799,
+    "crossencoder_score": -4.215515613555908
+  },
+  {
+    "candidate_id": "CAND_0068777",
+    "bge_score": 0.8063823580741882,
+    "crossencoder_score": -4.2230377197265625
+  },
+  {
+    "candidate_id": "CAND_0091534",
+    "bge_score": 0.8746312856674194,
+    "crossencoder_score": -4.2328596115112305
+  },
+  {
+    "candidate_id": "CAND_0088878",
+    "bge_score": 0.8145594596862793,
+    "crossencoder_score": -4.234609603881836
+  },
+  {
+    "candidate_id": "CAND_0083879",
+    "bge_score": 0.8739719986915588,
+    "crossencoder_score": -4.236700057983398
+  },
+  {
+    "candidate_id": "CAND_0037980",
+    "bge_score": 0.8513570427894592,
+    "crossencoder_score": -4.252131938934326
+  },
+  {
+    "candidate_id": "CAND_0030348",
+    "bge_score": 0.8769034743309021,
+    "crossencoder_score": -4.269946098327637
+  },
+  {
+    "candidate_id": "CAND_0052027",
+    "bge_score": 0.8104604482650757,
+    "crossencoder_score": -4.273447036743164
+  },
+  {
+    "candidate_id": "CAND_0029367",
+    "bge_score": 0.8615294694900513,
+    "crossencoder_score": -4.320826530456543
+  },
+  {
+    "candidate_id": "CAND_0049978",
+    "bge_score": 0.8259642124176025,
+    "crossencoder_score": -4.324401378631592
+  },
+  {
+    "candidate_id": "CAND_0000031",
+    "bge_score": 0.8792036771774292,
+    "crossencoder_score": -4.333253383636475
+  },
+  {
+    "candidate_id": "CAND_0088526",
+    "bge_score": 0.8116270899772644,
+    "crossencoder_score": -4.3563456535339355
+  },
+  {
+    "candidate_id": "CAND_0076587",
+    "bge_score": 0.8059684038162231,
+    "crossencoder_score": -4.364230155944824
+  },
+  {
+    "candidate_id": "CAND_0051004",
+    "bge_score": 0.8659802675247192,
+    "crossencoder_score": -4.393571853637695
+  },
+  {
+    "candidate_id": "CAND_0092706",
+    "bge_score": 0.8258353471755981,
+    "crossencoder_score": -4.393691062927246
+  },
+  {
+    "candidate_id": "CAND_0075439",
+    "bge_score": 0.8576329946517944,
+    "crossencoder_score": -4.3964433670043945
+  },
+  {
+    "candidate_id": "CAND_0087006",
+    "bge_score": 0.8028737306594849,
+    "crossencoder_score": -4.397650241851807
+  },
+  {
+    "candidate_id": "CAND_0068811",
+    "bge_score": 0.862393856048584,
+    "crossencoder_score": -4.420526504516602
+  },
+  {
+    "candidate_id": "CAND_0068985",
+    "bge_score": 0.8168736696243286,
+    "crossencoder_score": -4.422700881958008
+  },
+  {
+    "candidate_id": "CAND_0054318",
+    "bge_score": 0.8040125966072083,
+    "crossencoder_score": -4.457974910736084
+  },
+  {
+    "candidate_id": "CAND_0042029",
+    "bge_score": 0.8962740898132324,
+    "crossencoder_score": -4.466056823730469
+  },
+  {
+    "candidate_id": "CAND_0064326",
+    "bge_score": 0.876592218875885,
+    "crossencoder_score": -4.469858169555664
+  },
+  {
+    "candidate_id": "CAND_0094728",
+    "bge_score": 0.8157793879508972,
+    "crossencoder_score": -4.481132984161377
+  },
+  {
+    "candidate_id": "CAND_0015967",
+    "bge_score": 0.8312801122665405,
+    "crossencoder_score": -4.498338222503662
+  },
+  {
+    "candidate_id": "CAND_0002770",
+    "bge_score": 0.8147985935211182,
+    "crossencoder_score": -4.5187578201293945
+  },
+  {
+    "candidate_id": "CAND_0047521",
+    "bge_score": 0.8141112327575684,
+    "crossencoder_score": -4.528082847595215
+  },
+  {
+    "candidate_id": "CAND_0028527",
+    "bge_score": 0.8146721124649048,
+    "crossencoder_score": -4.529319763183594
+  },
+  {
+    "candidate_id": "CAND_0032515",
+    "bge_score": 0.8376649022102356,
+    "crossencoder_score": -4.56229305267334
+  },
+  {
+    "candidate_id": "CAND_0037566",
+    "bge_score": 0.8428412675857544,
+    "crossencoder_score": -4.566612243652344
+  },
+  {
+    "candidate_id": "CAND_0011643",
+    "bge_score": 0.8214831948280334,
+    "crossencoder_score": -4.578047752380371
+  },
+  {
+    "candidate_id": "CAND_0089470",
+    "bge_score": 0.8219108581542969,
+    "crossencoder_score": -4.609861373901367
+  },
+  {
+    "candidate_id": "CAND_0014743",
+    "bge_score": 0.8012285828590393,
+    "crossencoder_score": -4.630634784698486
+  },
+  {
+    "candidate_id": "CAND_0041348",
+    "bge_score": 0.8231136202812195,
+    "crossencoder_score": -4.635687828063965
+  },
+  {
+    "candidate_id": "CAND_0087804",
+    "bge_score": 0.8035017251968384,
+    "crossencoder_score": -4.638053894042969
+  },
+  {
+    "candidate_id": "CAND_0098952",
+    "bge_score": 0.814227819442749,
+    "crossencoder_score": -4.64654016494751
+  },
+  {
+    "candidate_id": "CAND_0075249",
+    "bge_score": 0.8876424431800842,
+    "crossencoder_score": -4.649744033813477
+  },
+  {
+    "candidate_id": "CAND_0098454",
+    "bge_score": 0.8086707592010498,
+    "crossencoder_score": -4.657517433166504
+  },
+  {
+    "candidate_id": "CAND_0051466",
+    "bge_score": 0.807371973991394,
+    "crossencoder_score": -4.661042213439941
+  },
+  {
+    "candidate_id": "CAND_0077067",
+    "bge_score": 0.8123278021812439,
+    "crossencoder_score": -4.669476509094238
+  },
+  {
+    "candidate_id": "CAND_0074024",
+    "bge_score": 0.8119339942932129,
+    "crossencoder_score": -4.679068088531494
+  },
+  {
+    "candidate_id": "CAND_0040677",
+    "bge_score": 0.8208733797073364,
+    "crossencoder_score": -4.686772346496582
+  },
+  {
+    "candidate_id": "CAND_0014683",
+    "bge_score": 0.8077897429466248,
+    "crossencoder_score": -4.6942901611328125
+  },
+  {
+    "candidate_id": "CAND_0044890",
+    "bge_score": 0.8222904205322266,
+    "crossencoder_score": -4.699868202209473
+  },
+  {
+    "candidate_id": "CAND_0080794",
+    "bge_score": 0.8233110904693604,
+    "crossencoder_score": -4.712249755859375
+  },
+  {
+    "candidate_id": "CAND_0052706",
+    "bge_score": 0.8056963682174683,
+    "crossencoder_score": -4.726473808288574
+  },
+  {
+    "candidate_id": "CAND_0093331",
+    "bge_score": 0.8499947190284729,
+    "crossencoder_score": -4.738824844360352
+  },
+  {
+    "candidate_id": "CAND_0027801",
+    "bge_score": 0.850863516330719,
+    "crossencoder_score": -4.751053810119629
+  },
+  {
+    "candidate_id": "CAND_0006581",
+    "bge_score": 0.8116317391395569,
+    "crossencoder_score": -4.765359401702881
+  },
+  {
+    "candidate_id": "CAND_0052328",
+    "bge_score": 0.8533029556274414,
+    "crossencoder_score": -4.769734859466553
+  },
+  {
+    "candidate_id": "CAND_0035764",
+    "bge_score": 0.819098949432373,
+    "crossencoder_score": -4.785497665405273
+  },
+  {
+    "candidate_id": "CAND_0040887",
+    "bge_score": 0.8829730749130249,
+    "crossencoder_score": -4.786977291107178
+  },
+  {
+    "candidate_id": "CAND_0055960",
+    "bge_score": 0.818528413772583,
+    "crossencoder_score": -4.794421672821045
+  },
+  {
+    "candidate_id": "CAND_0065139",
+    "bge_score": 0.8330268859863281,
+    "crossencoder_score": -4.795192718505859
+  },
+  {
+    "candidate_id": "CAND_0001218",
+    "bge_score": 0.8324182629585266,
+    "crossencoder_score": -4.797701835632324
+  },
+  {
+    "candidate_id": "CAND_0042441",
+    "bge_score": 0.8037786483764648,
+    "crossencoder_score": -4.810200214385986
+  },
+  {
+    "candidate_id": "CAND_0082973",
+    "bge_score": 0.80543452501297,
+    "crossencoder_score": -4.818634033203125
+  },
+  {
+    "candidate_id": "CAND_0022274",
+    "bge_score": 0.8168757557868958,
+    "crossencoder_score": -4.84883451461792
+  },
+  {
+    "candidate_id": "CAND_0095528",
+    "bge_score": 0.8444446325302124,
+    "crossencoder_score": -4.85906982421875
+  },
+  {
+    "candidate_id": "CAND_0079387",
+    "bge_score": 0.8531752824783325,
+    "crossencoder_score": -4.8621602058410645
+  },
+  {
+    "candidate_id": "CAND_0017090",
+    "bge_score": 0.8119175434112549,
+    "crossencoder_score": -4.863439559936523
+  },
+  {
+    "candidate_id": "CAND_0078492",
+    "bge_score": 0.8759719729423523,
+    "crossencoder_score": -4.871759414672852
+  },
+  {
+    "candidate_id": "CAND_0011140",
+    "bge_score": 0.8126261830329895,
+    "crossencoder_score": -4.883495330810547
+  },
+  {
+    "candidate_id": "CAND_0016163",
+    "bge_score": 0.8231221437454224,
+    "crossencoder_score": -4.944757461547852
+  },
+  {
+    "candidate_id": "CAND_0074317",
+    "bge_score": 0.8085864782333374,
+    "crossencoder_score": -4.9537506103515625
+  },
+  {
+    "candidate_id": "CAND_0003609",
+    "bge_score": 0.8049501180648804,
+    "crossencoder_score": -4.965464115142822
+  },
+  {
+    "candidate_id": "CAND_0006437",
+    "bge_score": 0.8198787569999695,
+    "crossencoder_score": -4.966758728027344
+  },
+  {
+    "candidate_id": "CAND_0079284",
+    "bge_score": 0.8692712783813477,
+    "crossencoder_score": -4.9779205322265625
+  },
+  {
+    "candidate_id": "CAND_0075491",
+    "bge_score": 0.8176987171173096,
+    "crossencoder_score": -4.983872890472412
+  },
+  {
+    "candidate_id": "CAND_0083307",
+    "bge_score": 0.8832464218139648,
+    "crossencoder_score": -5.0204176902771
+  },
+  {
+    "candidate_id": "CAND_0077285",
+    "bge_score": 0.8490910530090332,
+    "crossencoder_score": -5.021657943725586
+  },
+  {
+    "candidate_id": "CAND_0001940",
+    "bge_score": 0.815329372882843,
+    "crossencoder_score": -5.0392327308654785
+  },
+  {
+    "candidate_id": "CAND_0013536",
+    "bge_score": 0.8584351539611816,
+    "crossencoder_score": -5.0447258949279785
+  },
+  {
+    "candidate_id": "CAND_0053591",
+    "bge_score": 0.8691977262496948,
+    "crossencoder_score": -5.054014205932617
+  },
+  {
+    "candidate_id": "CAND_0002344",
+    "bge_score": 0.8064139485359192,
+    "crossencoder_score": -5.055164337158203
+  },
+  {
+    "candidate_id": "CAND_0045250",
+    "bge_score": 0.8616026639938354,
+    "crossencoder_score": -5.0614118576049805
+  },
+  {
+    "candidate_id": "CAND_0058575",
+    "bge_score": 0.8454657793045044,
+    "crossencoder_score": -5.06159782409668
+  },
+  {
+    "candidate_id": "CAND_0082913",
+    "bge_score": 0.8281440138816833,
+    "crossencoder_score": -5.109143257141113
+  },
+  {
+    "candidate_id": "CAND_0001930",
+    "bge_score": 0.8214378356933594,
+    "crossencoder_score": -5.110934257507324
+  },
+  {
+    "candidate_id": "CAND_0051292",
+    "bge_score": 0.8464822769165039,
+    "crossencoder_score": -5.127688407897949
+  },
+  {
+    "candidate_id": "CAND_0008918",
+    "bge_score": 0.8169462084770203,
+    "crossencoder_score": -5.1394267082214355
+  },
+  {
+    "candidate_id": "CAND_0091899",
+    "bge_score": 0.8173733949661255,
+    "crossencoder_score": -5.151247978210449
+  },
+  {
+    "candidate_id": "CAND_0020845",
+    "bge_score": 0.8295965790748596,
+    "crossencoder_score": -5.160919666290283
+  },
+  {
+    "candidate_id": "CAND_0082262",
+    "bge_score": 0.8026989698410034,
+    "crossencoder_score": -5.163112640380859
+  },
+  {
+    "candidate_id": "CAND_0074225",
+    "bge_score": 0.8457858562469482,
+    "crossencoder_score": -5.176975727081299
+  },
+  {
+    "candidate_id": "CAND_0014440",
+    "bge_score": 0.892920970916748,
+    "crossencoder_score": -5.1770830154418945
+  },
+  {
+    "candidate_id": "CAND_0067643",
+    "bge_score": 0.8330169916152954,
+    "crossencoder_score": -5.190744400024414
+  },
+  {
+    "candidate_id": "CAND_0054795",
+    "bge_score": 0.8036666512489319,
+    "crossencoder_score": -5.193462371826172
+  },
+  {
+    "candidate_id": "CAND_0039383",
+    "bge_score": 0.8603088855743408,
+    "crossencoder_score": -5.197434425354004
+  },
+  {
+    "candidate_id": "CAND_0013613",
+    "bge_score": 0.8448567986488342,
+    "crossencoder_score": -5.197963237762451
+  },
+  {
+    "candidate_id": "CAND_0050454",
+    "bge_score": 0.8862631320953369,
+    "crossencoder_score": -5.202367305755615
+  },
+  {
+    "candidate_id": "CAND_0030550",
+    "bge_score": 0.8132346868515015,
+    "crossencoder_score": -5.20515251159668
+  },
+  {
+    "candidate_id": "CAND_0041610",
+    "bge_score": 0.8718017935752869,
+    "crossencoder_score": -5.2056989669799805
+  },
+  {
+    "candidate_id": "CAND_0080597",
+    "bge_score": 0.8074531555175781,
+    "crossencoder_score": -5.222128868103027
+  },
+  {
+    "candidate_id": "CAND_0030953",
+    "bge_score": 0.8741528391838074,
+    "crossencoder_score": -5.235185146331787
+  },
+  {
+    "candidate_id": "CAND_0082489",
+    "bge_score": 0.8128228783607483,
+    "crossencoder_score": -5.242061614990234
+  },
+  {
+    "candidate_id": "CAND_0077552",
+    "bge_score": 0.8131372928619385,
+    "crossencoder_score": -5.244614601135254
+  },
+  {
+    "candidate_id": "CAND_0092468",
+    "bge_score": 0.8109563589096069,
+    "crossencoder_score": -5.246171951293945
+  },
+  {
+    "candidate_id": "CAND_0056881",
+    "bge_score": 0.8085817098617554,
+    "crossencoder_score": -5.2462158203125
+  },
+  {
+    "candidate_id": "CAND_0028647",
+    "bge_score": 0.8031531572341919,
+    "crossencoder_score": -5.252875328063965
+  },
+  {
+    "candidate_id": "CAND_0095884",
+    "bge_score": 0.827484667301178,
+    "crossencoder_score": -5.2590179443359375
+  },
+  {
+    "candidate_id": "CAND_0022415",
+    "bge_score": 0.8263683319091797,
+    "crossencoder_score": -5.275797367095947
+  },
+  {
+    "candidate_id": "CAND_0064904",
+    "bge_score": 0.8644977807998657,
+    "crossencoder_score": -5.292628288269043
+  },
+  {
+    "candidate_id": "CAND_0091254",
+    "bge_score": 0.8055182695388794,
+    "crossencoder_score": -5.296694278717041
+  },
+  {
+    "candidate_id": "CAND_0067866",
+    "bge_score": 0.8201767206192017,
+    "crossencoder_score": -5.304408550262451
+  },
+  {
+    "candidate_id": "CAND_0094685",
+    "bge_score": 0.8226332664489746,
+    "crossencoder_score": -5.305501937866211
+  },
+  {
+    "candidate_id": "CAND_0031593",
+    "bge_score": 0.864945650100708,
+    "crossencoder_score": -5.310573577880859
+  },
+  {
+    "candidate_id": "CAND_0060257",
+    "bge_score": 0.8255153894424438,
+    "crossencoder_score": -5.310722351074219
+  },
+  {
+    "candidate_id": "CAND_0024466",
+    "bge_score": 0.8696126341819763,
+    "crossencoder_score": -5.313596725463867
+  },
+  {
+    "candidate_id": "CAND_0081709",
+    "bge_score": 0.8335452079772949,
+    "crossencoder_score": -5.321564674377441
+  },
+  {
+    "candidate_id": "CAND_0010770",
+    "bge_score": 0.8452475666999817,
+    "crossencoder_score": -5.325433731079102
+  },
+  {
+    "candidate_id": "CAND_0046621",
+    "bge_score": 0.8045603036880493,
+    "crossencoder_score": -5.332001209259033
+  },
+  {
+    "candidate_id": "CAND_0025882",
+    "bge_score": 0.8268085718154907,
+    "crossencoder_score": -5.336620330810547
+  },
+  {
+    "candidate_id": "CAND_0009516",
+    "bge_score": 0.8080050349235535,
+    "crossencoder_score": -5.3369951248168945
+  },
+  {
+    "candidate_id": "CAND_0037000",
+    "bge_score": 0.8659947514533997,
+    "crossencoder_score": -5.354021072387695
+  },
+  {
+    "candidate_id": "CAND_0070202",
+    "bge_score": 0.8867095708847046,
+    "crossencoder_score": -5.3614068031311035
+  },
+  {
+    "candidate_id": "CAND_0039308",
+    "bge_score": 0.8481224775314331,
+    "crossencoder_score": -5.37249231338501
+  },
+  {
+    "candidate_id": "CAND_0088438",
+    "bge_score": 0.8270969986915588,
+    "crossencoder_score": -5.377039909362793
+  },
+  {
+    "candidate_id": "CAND_0061655",
+    "bge_score": 0.8494241833686829,
+    "crossencoder_score": -5.378925323486328
+  },
+  {
+    "candidate_id": "CAND_0044883",
+    "bge_score": 0.8917920589447021,
+    "crossencoder_score": -5.389646053314209
+  },
+  {
+    "candidate_id": "CAND_0065561",
+    "bge_score": 0.8036962747573853,
+    "crossencoder_score": -5.392477989196777
+  },
+  {
+    "candidate_id": "CAND_0052712",
+    "bge_score": 0.8152045011520386,
+    "crossencoder_score": -5.39254093170166
+  },
+  {
+    "candidate_id": "CAND_0075481",
+    "bge_score": 0.8083650469779968,
+    "crossencoder_score": -5.396322727203369
+  },
+  {
+    "candidate_id": "CAND_0061156",
+    "bge_score": 0.8181819915771484,
+    "crossencoder_score": -5.398623466491699
+  },
+  {
+    "candidate_id": "CAND_0046278",
+    "bge_score": 0.8293285965919495,
+    "crossencoder_score": -5.399358749389648
+  },
+  {
+    "candidate_id": "CAND_0070525",
+    "bge_score": 0.8145816922187805,
+    "crossencoder_score": -5.400475978851318
+  },
+  {
+    "candidate_id": "CAND_0086151",
+    "bge_score": 0.8859353065490723,
+    "crossencoder_score": -5.4022216796875
+  },
+  {
+    "candidate_id": "CAND_0058412",
+    "bge_score": 0.8323491811752319,
+    "crossencoder_score": -5.403180122375488
+  },
+  {
+    "candidate_id": "CAND_0095619",
+    "bge_score": 0.8310474753379822,
+    "crossencoder_score": -5.4192962646484375
+  },
+  {
+    "candidate_id": "CAND_0098846",
+    "bge_score": 0.8651421070098877,
+    "crossencoder_score": -5.424513339996338
+  },
+  {
+    "candidate_id": "CAND_0081686",
+    "bge_score": 0.8710789680480957,
+    "crossencoder_score": -5.424615859985352
+  },
+  {
+    "candidate_id": "CAND_0036184",
+    "bge_score": 0.862284243106842,
+    "crossencoder_score": -5.425085067749023
+  },
+  {
+    "candidate_id": "CAND_0067322",
+    "bge_score": 0.8028193712234497,
+    "crossencoder_score": -5.426920413970947
+  },
+  {
+    "candidate_id": "CAND_0096209",
+    "bge_score": 0.8133974075317383,
+    "crossencoder_score": -5.438070774078369
+  },
+  {
+    "candidate_id": "CAND_0033179",
+    "bge_score": 0.8140994310379028,
+    "crossencoder_score": -5.4525370597839355
+  },
+  {
+    "candidate_id": "CAND_0076163",
+    "bge_score": 0.8415216207504272,
+    "crossencoder_score": -5.4745869636535645
+  },
+  {
+    "candidate_id": "CAND_0040117",
+    "bge_score": 0.8451066613197327,
+    "crossencoder_score": -5.479308128356934
+  },
+  {
+    "candidate_id": "CAND_0057701",
+    "bge_score": 0.8653920292854309,
+    "crossencoder_score": -5.488306522369385
+  },
+  {
+    "candidate_id": "CAND_0020494",
+    "bge_score": 0.8153350353240967,
+    "crossencoder_score": -5.496016025543213
+  },
+  {
+    "candidate_id": "CAND_0075574",
+    "bge_score": 0.8488457798957825,
+    "crossencoder_score": -5.497569561004639
+  },
+  {
+    "candidate_id": "CAND_0069905",
+    "bge_score": 0.890733003616333,
+    "crossencoder_score": -5.49793004989624
+  },
+  {
+    "candidate_id": "CAND_0058688",
+    "bge_score": 0.832417905330658,
+    "crossencoder_score": -5.498495101928711
+  },
+  {
+    "candidate_id": "CAND_0027691",
+    "bge_score": 0.8324900269508362,
+    "crossencoder_score": -5.500520706176758
+  },
+  {
+    "candidate_id": "CAND_0090300",
+    "bge_score": 0.812488317489624,
+    "crossencoder_score": -5.512723922729492
+  },
+  {
+    "candidate_id": "CAND_0060835",
+    "bge_score": 0.8076992034912109,
+    "crossencoder_score": -5.517348766326904
+  },
+  {
+    "candidate_id": "CAND_0051630",
+    "bge_score": 0.8553792238235474,
+    "crossencoder_score": -5.547197341918945
+  },
+  {
+    "candidate_id": "CAND_0096142",
+    "bge_score": 0.8518316745758057,
+    "crossencoder_score": -5.549394607543945
+  },
+  {
+    "candidate_id": "CAND_0008978",
+    "bge_score": 0.8122326135635376,
+    "crossencoder_score": -5.5560221672058105
+  },
+  {
+    "candidate_id": "CAND_0054123",
+    "bge_score": 0.8782415390014648,
+    "crossencoder_score": -5.5674896240234375
+  },
+  {
+    "candidate_id": "CAND_0009236",
+    "bge_score": 0.8321925401687622,
+    "crossencoder_score": -5.582947254180908
+  },
+  {
+    "candidate_id": "CAND_0042506",
+    "bge_score": 0.8924392461776733,
+    "crossencoder_score": -5.5960822105407715
+  },
+  {
+    "candidate_id": "CAND_0096131",
+    "bge_score": 0.8063696026802063,
+    "crossencoder_score": -5.602601051330566
+  },
+  {
+    "candidate_id": "CAND_0012957",
+    "bge_score": 0.8764264583587646,
+    "crossencoder_score": -5.610007286071777
+  },
+  {
+    "candidate_id": "CAND_0095207",
+    "bge_score": 0.8018162250518799,
+    "crossencoder_score": -5.630867958068848
+  },
+  {
+    "candidate_id": "CAND_0007412",
+    "bge_score": 0.8304828405380249,
+    "crossencoder_score": -5.63817024230957
+  },
+  {
+    "candidate_id": "CAND_0034177",
+    "bge_score": 0.8145230412483215,
+    "crossencoder_score": -5.649411678314209
+  },
+  {
+    "candidate_id": "CAND_0002610",
+    "bge_score": 0.8091551661491394,
+    "crossencoder_score": -5.653464317321777
+  },
+  {
+    "candidate_id": "CAND_0003756",
+    "bge_score": 0.8169243335723877,
+    "crossencoder_score": -5.656240463256836
+  },
+  {
+    "candidate_id": "CAND_0039521",
+    "bge_score": 0.8486603498458862,
+    "crossencoder_score": -5.660356521606445
+  },
+  {
+    "candidate_id": "CAND_0000969",
+    "bge_score": 0.8162070512771606,
+    "crossencoder_score": -5.662464141845703
+  },
+  {
+    "candidate_id": "CAND_0020708",
+    "bge_score": 0.8654784560203552,
+    "crossencoder_score": -5.683173179626465
+  },
+  {
+    "candidate_id": "CAND_0008628",
+    "bge_score": 0.8114287853240967,
+    "crossencoder_score": -5.684079170227051
+  },
+  {
+    "candidate_id": "CAND_0076831",
+    "bge_score": 0.8634657859802246,
+    "crossencoder_score": -5.688026428222656
+  },
+  {
+    "candidate_id": "CAND_0006418",
+    "bge_score": 0.8669289350509644,
+    "crossencoder_score": -5.689582347869873
+  },
+  {
+    "candidate_id": "CAND_0080344",
+    "bge_score": 0.8166143298149109,
+    "crossencoder_score": -5.693549156188965
+  },
+  {
+    "candidate_id": "CAND_0096172",
+    "bge_score": 0.865443229675293,
+    "crossencoder_score": -5.696592330932617
+  },
+  {
+    "candidate_id": "CAND_0060303",
+    "bge_score": 0.8340293169021606,
+    "crossencoder_score": -5.70160436630249
+  },
+  {
+    "candidate_id": "CAND_0070333",
+    "bge_score": 0.8152984380722046,
+    "crossencoder_score": -5.701645851135254
+  },
+  {
+    "candidate_id": "CAND_0069773",
+    "bge_score": 0.8304743766784668,
+    "crossencoder_score": -5.706112861633301
+  },
+  {
+    "candidate_id": "CAND_0091909",
+    "bge_score": 0.8325640559196472,
+    "crossencoder_score": -5.707186698913574
+  },
+  {
+    "candidate_id": "CAND_0096104",
+    "bge_score": 0.8011156916618347,
+    "crossencoder_score": -5.713417053222656
+  },
+  {
+    "candidate_id": "CAND_0087529",
+    "bge_score": 0.8142533898353577,
+    "crossencoder_score": -5.717601776123047
+  },
+  {
+    "candidate_id": "CAND_0086028",
+    "bge_score": 0.8236364126205444,
+    "crossencoder_score": -5.725949287414551
+  },
+  {
+    "candidate_id": "CAND_0049896",
+    "bge_score": 0.8818520903587341,
+    "crossencoder_score": -5.732865333557129
+  },
+  {
+    "candidate_id": "CAND_0093185",
+    "bge_score": 0.8129463791847229,
+    "crossencoder_score": -5.7493791580200195
+  },
+  {
+    "candidate_id": "CAND_0018013",
+    "bge_score": 0.8010971546173096,
+    "crossencoder_score": -5.771112442016602
+  },
+  {
+    "candidate_id": "CAND_0002120",
+    "bge_score": 0.8034635782241821,
+    "crossencoder_score": -5.780505657196045
+  },
+  {
+    "candidate_id": "CAND_0073504",
+    "bge_score": 0.8022220730781555,
+    "crossencoder_score": -5.78849458694458
+  },
+  {
+    "candidate_id": "CAND_0046132",
+    "bge_score": 0.8249799013137817,
+    "crossencoder_score": -5.789154052734375
+  },
+  {
+    "candidate_id": "CAND_0053695",
+    "bge_score": 0.8777677416801453,
+    "crossencoder_score": -5.789681434631348
+  },
+  {
+    "candidate_id": "CAND_0052335",
+    "bge_score": 0.8485556840896606,
+    "crossencoder_score": -5.795371055603027
+  },
+  {
+    "candidate_id": "CAND_0078042",
+    "bge_score": 0.8629364967346191,
+    "crossencoder_score": -5.811830520629883
+  },
+  {
+    "candidate_id": "CAND_0034169",
+    "bge_score": 0.832527220249176,
+    "crossencoder_score": -5.839673042297363
+  },
+  {
+    "candidate_id": "CAND_0082291",
+    "bge_score": 0.8009238243103027,
+    "crossencoder_score": -5.858821868896484
+  },
+  {
+    "candidate_id": "CAND_0009024",
+    "bge_score": 0.8552260994911194,
+    "crossencoder_score": -5.875760555267334
+  },
+  {
+    "candidate_id": "CAND_0003977",
+    "bge_score": 0.8700034618377686,
+    "crossencoder_score": -5.899621963500977
+  },
+  {
+    "candidate_id": "CAND_0089552",
+    "bge_score": 0.8643747568130493,
+    "crossencoder_score": -5.903928279876709
+  },
+  {
+    "candidate_id": "CAND_0018722",
+    "bge_score": 0.8874719738960266,
+    "crossencoder_score": -5.905478477478027
+  },
+  {
+    "candidate_id": "CAND_0007009",
+    "bge_score": 0.8575935363769531,
+    "crossencoder_score": -5.911849021911621
+  },
+  {
+    "candidate_id": "CAND_0074735",
+    "bge_score": 0.8357627987861633,
+    "crossencoder_score": -5.915165901184082
+  },
+  {
+    "candidate_id": "CAND_0064331",
+    "bge_score": 0.8491645455360413,
+    "crossencoder_score": -5.930222988128662
+  },
+  {
+    "candidate_id": "CAND_0093883",
+    "bge_score": 0.8135682344436646,
+    "crossencoder_score": -5.933337688446045
+  },
+  {
+    "candidate_id": "CAND_0050707",
+    "bge_score": 0.8233082294464111,
+    "crossencoder_score": -5.9334259033203125
+  },
+  {
+    "candidate_id": "CAND_0016267",
+    "bge_score": 0.8183342218399048,
+    "crossencoder_score": -5.9345011711120605
+  },
+  {
+    "candidate_id": "CAND_0051486",
+    "bge_score": 0.8361366391181946,
+    "crossencoder_score": -5.949150085449219
+  },
+  {
+    "candidate_id": "CAND_0091890",
+    "bge_score": 0.829456627368927,
+    "crossencoder_score": -5.956462383270264
+  },
+  {
+    "candidate_id": "CAND_0058146",
+    "bge_score": 0.8203056454658508,
+    "crossencoder_score": -5.957401752471924
+  },
+  {
+    "candidate_id": "CAND_0043228",
+    "bge_score": 0.8687843084335327,
+    "crossencoder_score": -5.959480285644531
+  },
+  {
+    "candidate_id": "CAND_0015578",
+    "bge_score": 0.841008186340332,
+    "crossencoder_score": -5.960656642913818
+  },
+  {
+    "candidate_id": "CAND_0014063",
+    "bge_score": 0.8184020519256592,
+    "crossencoder_score": -5.966257095336914
+  },
+  {
+    "candidate_id": "CAND_0065927",
+    "bge_score": 0.8088831305503845,
+    "crossencoder_score": -5.98944091796875
+  },
+  {
+    "candidate_id": "CAND_0051593",
+    "bge_score": 0.8114116191864014,
+    "crossencoder_score": -5.99018669128418
+  },
+  {
+    "candidate_id": "CAND_0023541",
+    "bge_score": 0.8047681450843811,
+    "crossencoder_score": -5.999749660491943
+  },
+  {
+    "candidate_id": "CAND_0032807",
+    "bge_score": 0.8380831480026245,
+    "crossencoder_score": -6.004965782165527
+  },
+  {
+    "candidate_id": "CAND_0009691",
+    "bge_score": 0.8571383953094482,
+    "crossencoder_score": -6.006932258605957
+  },
+  {
+    "candidate_id": "CAND_0064130",
+    "bge_score": 0.832871675491333,
+    "crossencoder_score": -6.007882118225098
+  },
+  {
+    "candidate_id": "CAND_0051615",
+    "bge_score": 0.8543105125427246,
+    "crossencoder_score": -6.016410827636719
+  },
+  {
+    "candidate_id": "CAND_0051219",
+    "bge_score": 0.8201138973236084,
+    "crossencoder_score": -6.0362091064453125
+  },
+  {
+    "candidate_id": "CAND_0052682",
+    "bge_score": 0.8274096250534058,
+    "crossencoder_score": -6.040719509124756
+  },
+  {
+    "candidate_id": "CAND_0008239",
+    "bge_score": 0.8393028378486633,
+    "crossencoder_score": -6.0476884841918945
+  },
+  {
+    "candidate_id": "CAND_0007460",
+    "bge_score": 0.8486120700836182,
+    "crossencoder_score": -6.074390411376953
+  },
+  {
+    "candidate_id": "CAND_0097896",
+    "bge_score": 0.8290631771087646,
+    "crossencoder_score": -6.079443454742432
+  },
+  {
+    "candidate_id": "CAND_0032271",
+    "bge_score": 0.8320505619049072,
+    "crossencoder_score": -6.082729339599609
+  },
+  {
+    "candidate_id": "CAND_0050876",
+    "bge_score": 0.8548761606216431,
+    "crossencoder_score": -6.085079193115234
+  },
+  {
+    "candidate_id": "CAND_0010685",
+    "bge_score": 0.8596160411834717,
+    "crossencoder_score": -6.092792510986328
+  },
+  {
+    "candidate_id": "CAND_0008202",
+    "bge_score": 0.8204641342163086,
+    "crossencoder_score": -6.093340873718262
+  },
+  {
+    "candidate_id": "CAND_0070485",
+    "bge_score": 0.8699804544448853,
+    "crossencoder_score": -6.106871604919434
+  },
+  {
+    "candidate_id": "CAND_0033987",
+    "bge_score": 0.8053330779075623,
+    "crossencoder_score": -6.108673095703125
+  },
+  {
+    "candidate_id": "CAND_0020350",
+    "bge_score": 0.8084174394607544,
+    "crossencoder_score": -6.10935115814209
+  },
+  {
+    "candidate_id": "CAND_0049040",
+    "bge_score": 0.8111530542373657,
+    "crossencoder_score": -6.110145568847656
+  },
+  {
+    "candidate_id": "CAND_0014715",
+    "bge_score": 0.8175108432769775,
+    "crossencoder_score": -6.110148906707764
+  },
+  {
+    "candidate_id": "CAND_0070398",
+    "bge_score": 0.8823432922363281,
+    "crossencoder_score": -6.122958660125732
+  },
+  {
+    "candidate_id": "CAND_0087630",
+    "bge_score": 0.8609000444412231,
+    "crossencoder_score": -6.125968933105469
+  },
+  {
+    "candidate_id": "CAND_0000165",
+    "bge_score": 0.802503228187561,
+    "crossencoder_score": -6.136789321899414
+  },
+  {
+    "candidate_id": "CAND_0099401",
+    "bge_score": 0.868518054485321,
+    "crossencoder_score": -6.1401801109313965
+  },
+  {
+    "candidate_id": "CAND_0048509",
+    "bge_score": 0.8336334824562073,
+    "crossencoder_score": -6.150076866149902
+  },
+  {
+    "candidate_id": "CAND_0026424",
+    "bge_score": 0.8055142164230347,
+    "crossencoder_score": -6.180173397064209
+  },
+  {
+    "candidate_id": "CAND_0054394",
+    "bge_score": 0.8701477646827698,
+    "crossencoder_score": -6.183963298797607
+  },
+  {
+    "candidate_id": "CAND_0017960",
+    "bge_score": 0.8602994084358215,
+    "crossencoder_score": -6.1910786628723145
+  },
+  {
+    "candidate_id": "CAND_0079176",
+    "bge_score": 0.8159726858139038,
+    "crossencoder_score": -6.199806213378906
+  },
+  {
+    "candidate_id": "CAND_0094056",
+    "bge_score": 0.8321249485015869,
+    "crossencoder_score": -6.2088422775268555
+  },
+  {
+    "candidate_id": "CAND_0040178",
+    "bge_score": 0.80256587266922,
+    "crossencoder_score": -6.2421722412109375
+  },
+  {
+    "candidate_id": "CAND_0019200",
+    "bge_score": 0.8220943212509155,
+    "crossencoder_score": -6.245672225952148
+  },
+  {
+    "candidate_id": "CAND_0043860",
+    "bge_score": 0.8185470700263977,
+    "crossencoder_score": -6.252228736877441
+  },
+  {
+    "candidate_id": "CAND_0063328",
+    "bge_score": 0.80777907371521,
+    "crossencoder_score": -6.2582807540893555
+  },
+  {
+    "candidate_id": "CAND_0066075",
+    "bge_score": 0.8160823583602905,
+    "crossencoder_score": -6.272274017333984
+  },
+  {
+    "candidate_id": "CAND_0089546",
+    "bge_score": 0.8174256682395935,
+    "crossencoder_score": -6.275602340698242
+  },
+  {
+    "candidate_id": "CAND_0061175",
+    "bge_score": 0.8393736481666565,
+    "crossencoder_score": -6.278985500335693
+  },
+  {
+    "candidate_id": "CAND_0022812",
+    "bge_score": 0.849990725517273,
+    "crossencoder_score": -6.294404983520508
+  },
+  {
+    "candidate_id": "CAND_0061479",
+    "bge_score": 0.8250933885574341,
+    "crossencoder_score": -6.306168556213379
+  },
+  {
+    "candidate_id": "CAND_0036973",
+    "bge_score": 0.8225437998771667,
+    "crossencoder_score": -6.311144828796387
+  },
+  {
+    "candidate_id": "CAND_0075138",
+    "bge_score": 0.8213573098182678,
+    "crossencoder_score": -6.31939697265625
+  },
+  {
+    "candidate_id": "CAND_0095184",
+    "bge_score": 0.8134849071502686,
+    "crossencoder_score": -6.328685760498047
+  },
+  {
+    "candidate_id": "CAND_0069771",
+    "bge_score": 0.8091346025466919,
+    "crossencoder_score": -6.331046104431152
+  },
+  {
+    "candidate_id": "CAND_0049615",
+    "bge_score": 0.8083167672157288,
+    "crossencoder_score": -6.336653709411621
+  },
+  {
+    "candidate_id": "CAND_0089726",
+    "bge_score": 0.8098794221878052,
+    "crossencoder_score": -6.349126815795898
+  },
+  {
+    "candidate_id": "CAND_0084681",
+    "bge_score": 0.8131820559501648,
+    "crossencoder_score": -6.350025177001953
+  },
+  {
+    "candidate_id": "CAND_0041696",
+    "bge_score": 0.8195645809173584,
+    "crossencoder_score": -6.355313301086426
+  },
+  {
+    "candidate_id": "CAND_0085851",
+    "bge_score": 0.8011060953140259,
+    "crossencoder_score": -6.3621697425842285
+  },
+  {
+    "candidate_id": "CAND_0065786",
+    "bge_score": 0.8344292640686035,
+    "crossencoder_score": -6.368642807006836
+  },
+  {
+    "candidate_id": "CAND_0076995",
+    "bge_score": 0.8274959325790405,
+    "crossencoder_score": -6.375283718109131
+  },
+  {
+    "candidate_id": "CAND_0032089",
+    "bge_score": 0.8053171634674072,
+    "crossencoder_score": -6.3778839111328125
+  },
+  {
+    "candidate_id": "CAND_0078508",
+    "bge_score": 0.8461514711380005,
+    "crossencoder_score": -6.384454250335693
+  },
+  {
+    "candidate_id": "CAND_0081053",
+    "bge_score": 0.8623093366622925,
+    "crossencoder_score": -6.411406517028809
+  },
+  {
+    "candidate_id": "CAND_0018925",
+    "bge_score": 0.8247765302658081,
+    "crossencoder_score": -6.415918350219727
+  },
+  {
+    "candidate_id": "CAND_0029135",
+    "bge_score": 0.8241264224052429,
+    "crossencoder_score": -6.418560981750488
+  },
+  {
+    "candidate_id": "CAND_0033839",
+    "bge_score": 0.8107921481132507,
+    "crossencoder_score": -6.427390098571777
+  },
+  {
+    "candidate_id": "CAND_0021706",
+    "bge_score": 0.8126794099807739,
+    "crossencoder_score": -6.431008338928223
+  },
+  {
+    "candidate_id": "CAND_0023076",
+    "bge_score": 0.8090125918388367,
+    "crossencoder_score": -6.446775913238525
+  },
+  {
+    "candidate_id": "CAND_0035879",
+    "bge_score": 0.8150623440742493,
+    "crossencoder_score": -6.447295188903809
+  },
+  {
+    "candidate_id": "CAND_0008295",
+    "bge_score": 0.8127398490905762,
+    "crossencoder_score": -6.450676441192627
+  },
+  {
+    "candidate_id": "CAND_0024947",
+    "bge_score": 0.8045262098312378,
+    "crossencoder_score": -6.466936111450195
+  },
+  {
+    "candidate_id": "CAND_0000422",
+    "bge_score": 0.8257161378860474,
+    "crossencoder_score": -6.4689741134643555
+  },
+  {
+    "candidate_id": "CAND_0023215",
+    "bge_score": 0.8082115054130554,
+    "crossencoder_score": -6.479262351989746
+  },
+  {
+    "candidate_id": "CAND_0039838",
+    "bge_score": 0.8538442850112915,
+    "crossencoder_score": -6.486451148986816
+  },
+  {
+    "candidate_id": "CAND_0021827",
+    "bge_score": 0.8300139307975769,
+    "crossencoder_score": -6.491548538208008
+  },
+  {
+    "candidate_id": "CAND_0024630",
+    "bge_score": 0.8150511980056763,
+    "crossencoder_score": -6.563136577606201
+  },
+  {
+    "candidate_id": "CAND_0012798",
+    "bge_score": 0.826124906539917,
+    "crossencoder_score": -6.574734687805176
+  },
+  {
+    "candidate_id": "CAND_0000981",
+    "bge_score": 0.8107531070709229,
+    "crossencoder_score": -6.632140636444092
+  },
+  {
+    "candidate_id": "CAND_0017590",
+    "bge_score": 0.8130570650100708,
+    "crossencoder_score": -6.635685920715332
+  },
+  {
+    "candidate_id": "CAND_0008517",
+    "bge_score": 0.8419332504272461,
+    "crossencoder_score": -6.646387100219727
+  },
+  {
+    "candidate_id": "CAND_0040506",
+    "bge_score": 0.819961667060852,
+    "crossencoder_score": -6.6467485427856445
+  },
+  {
+    "candidate_id": "CAND_0065396",
+    "bge_score": 0.8105568885803223,
+    "crossencoder_score": -6.648874282836914
+  },
+  {
+    "candidate_id": "CAND_0022870",
+    "bge_score": 0.8026170134544373,
+    "crossencoder_score": -6.653725624084473
+  },
+  {
+    "candidate_id": "CAND_0088602",
+    "bge_score": 0.8088317513465881,
+    "crossencoder_score": -6.6616010665893555
+  },
+  {
+    "candidate_id": "CAND_0029294",
+    "bge_score": 0.8031569123268127,
+    "crossencoder_score": -6.66227912902832
+  },
+  {
+    "candidate_id": "CAND_0018653",
+    "bge_score": 0.8133820295333862,
+    "crossencoder_score": -6.671003341674805
+  },
+  {
+    "candidate_id": "CAND_0049771",
+    "bge_score": 0.8241653442382812,
+    "crossencoder_score": -6.674323081970215
+  },
+  {
+    "candidate_id": "CAND_0072232",
+    "bge_score": 0.8092257976531982,
+    "crossencoder_score": -6.6810479164123535
+  },
+  {
+    "candidate_id": "CAND_0090155",
+    "bge_score": 0.8154802322387695,
+    "crossencoder_score": -6.682744979858398
+  },
+  {
+    "candidate_id": "CAND_0014858",
+    "bge_score": 0.8319053649902344,
+    "crossencoder_score": -6.685070991516113
+  },
+  {
+    "candidate_id": "CAND_0015478",
+    "bge_score": 0.8024910092353821,
+    "crossencoder_score": -6.686182975769043
+  },
+  {
+    "candidate_id": "CAND_0008218",
+    "bge_score": 0.8051007390022278,
+    "crossencoder_score": -6.68891716003418
+  },
+  {
+    "candidate_id": "CAND_0053605",
+    "bge_score": 0.8236122131347656,
+    "crossencoder_score": -6.696504592895508
+  },
+  {
+    "candidate_id": "CAND_0069248",
+    "bge_score": 0.844235360622406,
+    "crossencoder_score": -6.706545829772949
+  },
+  {
+    "candidate_id": "CAND_0072660",
+    "bge_score": 0.8621334433555603,
+    "crossencoder_score": -6.7453694343566895
+  },
+  {
+    "candidate_id": "CAND_0074303",
+    "bge_score": 0.8101270198822021,
+    "crossencoder_score": -6.755539417266846
+  },
+  {
+    "candidate_id": "CAND_0071747",
+    "bge_score": 0.8169344663619995,
+    "crossencoder_score": -6.761131286621094
+  },
+  {
+    "candidate_id": "CAND_0043381",
+    "bge_score": 0.8178293704986572,
+    "crossencoder_score": -6.775885581970215
+  },
+  {
+    "candidate_id": "CAND_0064270",
+    "bge_score": 0.8939212560653687,
+    "crossencoder_score": -6.794363498687744
+  },
+  {
+    "candidate_id": "CAND_0022852",
+    "bge_score": 0.829360842704773,
+    "crossencoder_score": -6.796108245849609
+  },
+  {
+    "candidate_id": "CAND_0078785",
+    "bge_score": 0.8076127171516418,
+    "crossencoder_score": -6.807417392730713
+  },
+  {
+    "candidate_id": "CAND_0073620",
+    "bge_score": 0.824672520160675,
+    "crossencoder_score": -6.863979816436768
+  },
+  {
+    "candidate_id": "CAND_0086062",
+    "bge_score": 0.8126146197319031,
+    "crossencoder_score": -6.868403434753418
+  },
+  {
+    "candidate_id": "CAND_0015582",
+    "bge_score": 0.802165150642395,
+    "crossencoder_score": -6.871703147888184
+  },
+  {
+    "candidate_id": "CAND_0066309",
+    "bge_score": 0.8181138038635254,
+    "crossencoder_score": -6.878757476806641
+  },
+  {
+    "candidate_id": "CAND_0089012",
+    "bge_score": 0.8216655254364014,
+    "crossencoder_score": -6.912569046020508
+  },
+  {
+    "candidate_id": "CAND_0058300",
+    "bge_score": 0.8395358324050903,
+    "crossencoder_score": -6.926501274108887
+  },
+  {
+    "candidate_id": "CAND_0019447",
+    "bge_score": 0.8014600276947021,
+    "crossencoder_score": -6.9284210205078125
+  },
+  {
+    "candidate_id": "CAND_0025663",
+    "bge_score": 0.814125120639801,
+    "crossencoder_score": -6.932864189147949
+  },
+  {
+    "candidate_id": "CAND_0084391",
+    "bge_score": 0.8291047811508179,
+    "crossencoder_score": -6.944199562072754
+  },
+  {
+    "candidate_id": "CAND_0025640",
+    "bge_score": 0.8453115224838257,
+    "crossencoder_score": -6.954861640930176
+  },
+  {
+    "candidate_id": "CAND_0046108",
+    "bge_score": 0.8093456029891968,
+    "crossencoder_score": -6.961041450500488
+  },
+  {
+    "candidate_id": "CAND_0045862",
+    "bge_score": 0.8206437230110168,
+    "crossencoder_score": -6.978662490844727
+  },
+  {
+    "candidate_id": "CAND_0023458",
+    "bge_score": 0.8234893679618835,
+    "crossencoder_score": -6.986255645751953
+  },
+  {
+    "candidate_id": "CAND_0063585",
+    "bge_score": 0.8290184736251831,
+    "crossencoder_score": -6.990484714508057
+  },
+  {
+    "candidate_id": "CAND_0021410",
+    "bge_score": 0.8080394864082336,
+    "crossencoder_score": -6.994047164916992
+  },
+  {
+    "candidate_id": "CAND_0071087",
+    "bge_score": 0.8052562475204468,
+    "crossencoder_score": -7.005984306335449
+  },
+  {
+    "candidate_id": "CAND_0070514",
+    "bge_score": 0.8157929182052612,
+    "crossencoder_score": -7.017901420593262
+  },
+  {
+    "candidate_id": "CAND_0013122",
+    "bge_score": 0.8053561449050903,
+    "crossencoder_score": -7.029853820800781
+  },
+  {
+    "candidate_id": "CAND_0049688",
+    "bge_score": 0.8051325082778931,
+    "crossencoder_score": -7.047499656677246
+  },
+  {
+    "candidate_id": "CAND_0073007",
+    "bge_score": 0.8281506896018982,
+    "crossencoder_score": -7.074700355529785
+  },
+  {
+    "candidate_id": "CAND_0080534",
+    "bge_score": 0.8108552694320679,
+    "crossencoder_score": -7.081503868103027
+  },
+  {
+    "candidate_id": "CAND_0004555",
+    "bge_score": 0.8052311539649963,
+    "crossencoder_score": -7.097273826599121
+  },
+  {
+    "candidate_id": "CAND_0017648",
+    "bge_score": 0.8401523232460022,
+    "crossencoder_score": -7.1066670417785645
+  },
+  {
+    "candidate_id": "CAND_0027663",
+    "bge_score": 0.8108285069465637,
+    "crossencoder_score": -7.124527931213379
+  },
+  {
+    "candidate_id": "CAND_0070653",
+    "bge_score": 0.8096543550491333,
+    "crossencoder_score": -7.130971908569336
+  },
+  {
+    "candidate_id": "CAND_0013988",
+    "bge_score": 0.8066148161888123,
+    "crossencoder_score": -7.140671253204346
+  },
+  {
+    "candidate_id": "CAND_0010000",
+    "bge_score": 0.8328315615653992,
+    "crossencoder_score": -7.147965908050537
+  },
+  {
+    "candidate_id": "CAND_0041625",
+    "bge_score": 0.8170620203018188,
+    "crossencoder_score": -7.163491249084473
+  },
+  {
+    "candidate_id": "CAND_0004402",
+    "bge_score": 0.8392378091812134,
+    "crossencoder_score": -7.164353370666504
+  },
+  {
+    "candidate_id": "CAND_0040946",
+    "bge_score": 0.8146553039550781,
+    "crossencoder_score": -7.167687892913818
+  },
+  {
+    "candidate_id": "CAND_0044091",
+    "bge_score": 0.8061611652374268,
+    "crossencoder_score": -7.174412250518799
+  },
+  {
+    "candidate_id": "CAND_0066713",
+    "bge_score": 0.8090128898620605,
+    "crossencoder_score": -7.201058387756348
+  },
+  {
+    "candidate_id": "CAND_0056584",
+    "bge_score": 0.8128306865692139,
+    "crossencoder_score": -7.2401533126831055
+  },
+  {
+    "candidate_id": "CAND_0085199",
+    "bge_score": 0.8110223412513733,
+    "crossencoder_score": -7.241696357727051
+  },
+  {
+    "candidate_id": "CAND_0097472",
+    "bge_score": 0.8081691265106201,
+    "crossencoder_score": -7.251941680908203
+  },
+  {
+    "candidate_id": "CAND_0043936",
+    "bge_score": 0.8148800730705261,
+    "crossencoder_score": -7.253412246704102
+  },
+  {
+    "candidate_id": "CAND_0005191",
+    "bge_score": 0.8241696357727051,
+    "crossencoder_score": -7.256202220916748
+  },
+  {
+    "candidate_id": "CAND_0071115",
+    "bge_score": 0.8098344802856445,
+    "crossencoder_score": -7.256616115570068
+  },
+  {
+    "candidate_id": "CAND_0021491",
+    "bge_score": 0.8116259574890137,
+    "crossencoder_score": -7.271637916564941
+  },
+  {
+    "candidate_id": "CAND_0092568",
+    "bge_score": 0.8116386532783508,
+    "crossencoder_score": -7.2776970863342285
+  },
+  {
+    "candidate_id": "CAND_0016432",
+    "bge_score": 0.811590313911438,
+    "crossencoder_score": -7.282341957092285
+  },
+  {
+    "candidate_id": "CAND_0040200",
+    "bge_score": 0.8152114152908325,
+    "crossencoder_score": -7.284399032592773
+  },
+  {
+    "candidate_id": "CAND_0072218",
+    "bge_score": 0.8012672066688538,
+    "crossencoder_score": -7.289095401763916
+  },
+  {
+    "candidate_id": "CAND_0046526",
+    "bge_score": 0.8117204904556274,
+    "crossencoder_score": -7.293146133422852
+  },
+  {
+    "candidate_id": "CAND_0037424",
+    "bge_score": 0.8220759034156799,
+    "crossencoder_score": -7.303864002227783
+  },
+  {
+    "candidate_id": "CAND_0019845",
+    "bge_score": 0.8219398260116577,
+    "crossencoder_score": -7.310619831085205
+  },
+  {
+    "candidate_id": "CAND_0033352",
+    "bge_score": 0.8018779754638672,
+    "crossencoder_score": -7.313869953155518
+  },
+  {
+    "candidate_id": "CAND_0076956",
+    "bge_score": 0.8049479722976685,
+    "crossencoder_score": -7.316279411315918
+  },
+  {
+    "candidate_id": "CAND_0087766",
+    "bge_score": 0.8189104199409485,
+    "crossencoder_score": -7.323154449462891
+  },
+  {
+    "candidate_id": "CAND_0016659",
+    "bge_score": 0.8146423101425171,
+    "crossencoder_score": -7.336114883422852
+  },
+  {
+    "candidate_id": "CAND_0005311",
+    "bge_score": 0.8106146454811096,
+    "crossencoder_score": -7.339695930480957
+  },
+  {
+    "candidate_id": "CAND_0047907",
+    "bge_score": 0.8317691087722778,
+    "crossencoder_score": -7.392593860626221
+  },
+  {
+    "candidate_id": "CAND_0075175",
+    "bge_score": 0.8059804439544678,
+    "crossencoder_score": -7.427384376525879
+  },
+  {
+    "candidate_id": "CAND_0087316",
+    "bge_score": 0.8208140134811401,
+    "crossencoder_score": -7.4421281814575195
+  },
+  {
+    "candidate_id": "CAND_0009981",
+    "bge_score": 0.8102023005485535,
+    "crossencoder_score": -7.4579691886901855
+  },
+  {
+    "candidate_id": "CAND_0074648",
+    "bge_score": 0.8060510754585266,
+    "crossencoder_score": -7.469061851501465
+  },
+  {
+    "candidate_id": "CAND_0015643",
+    "bge_score": 0.8174917697906494,
+    "crossencoder_score": -7.470094203948975
+  },
+  {
+    "candidate_id": "CAND_0003557",
+    "bge_score": 0.805103063583374,
+    "crossencoder_score": -7.503464698791504
+  },
+  {
+    "candidate_id": "CAND_0007874",
+    "bge_score": 0.8199963569641113,
+    "crossencoder_score": -7.505049705505371
+  },
+  {
+    "candidate_id": "CAND_0043450",
+    "bge_score": 0.8065754175186157,
+    "crossencoder_score": -7.510313034057617
+  },
+  {
+    "candidate_id": "CAND_0048265",
+    "bge_score": 0.8218901753425598,
+    "crossencoder_score": -7.5253472328186035
+  },
+  {
+    "candidate_id": "CAND_0022720",
+    "bge_score": 0.8079517483711243,
+    "crossencoder_score": -7.528040885925293
+  },
+  {
+    "candidate_id": "CAND_0042564",
+    "bge_score": 0.8116896152496338,
+    "crossencoder_score": -7.531036376953125
+  },
+  {
+    "candidate_id": "CAND_0051545",
+    "bge_score": 0.8229106068611145,
+    "crossencoder_score": -7.56868839263916
+  },
+  {
+    "candidate_id": "CAND_0046459",
+    "bge_score": 0.8111895322799683,
+    "crossencoder_score": -7.592337131500244
+  },
+  {
+    "candidate_id": "CAND_0054546",
+    "bge_score": 0.8037424683570862,
+    "crossencoder_score": -7.629334449768066
+  },
+  {
+    "candidate_id": "CAND_0080315",
+    "bge_score": 0.8207752704620361,
+    "crossencoder_score": -7.647432804107666
+  },
+  {
+    "candidate_id": "CAND_0065517",
+    "bge_score": 0.8070056438446045,
+    "crossencoder_score": -7.6664652824401855
+  },
+  {
+    "candidate_id": "CAND_0058791",
+    "bge_score": 0.8128228783607483,
+    "crossencoder_score": -7.6947526931762695
+  },
+  {
+    "candidate_id": "CAND_0016170",
+    "bge_score": 0.818105936050415,
+    "crossencoder_score": -7.728531837463379
+  },
+  {
+    "candidate_id": "CAND_0058882",
+    "bge_score": 0.8052231669425964,
+    "crossencoder_score": -7.74279260635376
+  },
+  {
+    "candidate_id": "CAND_0026913",
+    "bge_score": 0.8032012581825256,
+    "crossencoder_score": -7.7469401359558105
+  },
+  {
+    "candidate_id": "CAND_0000705",
+    "bge_score": 0.8009238839149475,
+    "crossencoder_score": -7.751644134521484
+  },
+  {
+    "candidate_id": "CAND_0057742",
+    "bge_score": 0.8097636103630066,
+    "crossencoder_score": -7.769713878631592
+  },
+  {
+    "candidate_id": "CAND_0068596",
+    "bge_score": 0.8119164109230042,
+    "crossencoder_score": -7.7809648513793945
+  },
+  {
+    "candidate_id": "CAND_0070808",
+    "bge_score": 0.8030849695205688,
+    "crossencoder_score": -7.784328460693359
+  },
+  {
+    "candidate_id": "CAND_0073917",
+    "bge_score": 0.8080968856811523,
+    "crossencoder_score": -7.790632247924805
+  },
+  {
+    "candidate_id": "CAND_0013393",
+    "bge_score": 0.8121835589408875,
+    "crossencoder_score": -7.7910356521606445
+  },
+  {
+    "candidate_id": "CAND_0023583",
+    "bge_score": 0.80356764793396,
+    "crossencoder_score": -7.8018717765808105
+  },
+  {
+    "candidate_id": "CAND_0055139",
+    "bge_score": 0.8015413284301758,
+    "crossencoder_score": -7.914342880249023
+  },
+  {
+    "candidate_id": "CAND_0067403",
+    "bge_score": 0.8076121211051941,
+    "crossencoder_score": -7.955877780914307
+  },
+  {
+    "candidate_id": "CAND_0086893",
+    "bge_score": 0.8078452944755554,
+    "crossencoder_score": -7.9693193435668945
+  },
+  {
+    "candidate_id": "CAND_0060715",
+    "bge_score": 0.8014139533042908,
+    "crossencoder_score": -7.9886674880981445
+  },
+  {
+    "candidate_id": "CAND_0059017",
+    "bge_score": 0.8256307244300842,
+    "crossencoder_score": -8.021717071533203
+  },
+  {
+    "candidate_id": "CAND_0024147",
+    "bge_score": 0.8047178387641907,
+    "crossencoder_score": -8.083779335021973
+  },
+  {
+    "candidate_id": "CAND_0033405",
+    "bge_score": 0.8113252520561218,
+    "crossencoder_score": -8.216700553894043
+  },
+  {
+    "candidate_id": "CAND_0005509",
+    "bge_score": 0.8079739809036255,
+    "crossencoder_score": -8.220251083374023
+  },
+  {
+    "candidate_id": "CAND_0038328",
+    "bge_score": 0.8017616868019104,
+    "crossencoder_score": -8.25228214263916
+  },
+  {
+    "candidate_id": "CAND_0017178",
+    "bge_score": 0.8151488304138184,
+    "crossencoder_score": -8.34813117980957
+  },
+  {
+    "candidate_id": "CAND_0023587",
+    "bge_score": 0.8038504123687744,
+    "crossencoder_score": -8.463909149169922
+  },
+  {
+    "candidate_id": "CAND_0021729",
+    "bge_score": 0.8008712530136108,
+    "crossencoder_score": -8.497722625732422
+  },
+  {
+    "candidate_id": "CAND_0094292",
+    "bge_score": 0.8208221197128296,
+    "crossencoder_score": -8.50833797454834
+  },
+  {
+    "candidate_id": "CAND_0097176",
+    "bge_score": 0.8128308653831482,
+    "crossencoder_score": -8.586875915527344
+  },
+  {
+    "candidate_id": "CAND_0008049",
+    "bge_score": 0.8026560544967651,
+    "crossencoder_score": -8.842968940734863
+  }
+]

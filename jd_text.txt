@@ -1,0 +1,9 @@
+Senior AI Engineer role at a Series A AI-native talent intelligence platform. Core responsibilities: own ranking retrieval and matching systems for candidate-job matching. Build v2 ranking system using embeddings hybrid retrieval and LLM-based reranking. Set up evaluation infrastructure with offline benchmarks and online A/B testing.
+
+Hard requirements: production experience with embeddings-based retrieval systems using sentence-transformers BGE E5 OpenAI embeddings or similar. Production experience with vector databases or hybrid search infrastructure including Pinecone Weaviate Qdrant Milvus Elasticsearch OpenSearch FAISS. Strong Python. Hands-on experience designing evaluation frameworks for ranking systems including NDCG MRR MAP offline-to-online correlation A/B test interpretation.
+
+Nice to have: LLM fine-tuning with LoRA QLoRA PEFT. Learning-to-rank models XGBoost-based or neural. Prior exposure to HR-tech recruiting tech or marketplace products. Background in distributed systems or large-scale inference optimization. Open-source contributions in AI ML space.
+
+Ideal profile: 6-8 years total experience of which 4-5 are in applied ML AI roles at product companies not pure services. Has shipped at least one end-to-end ranking search or recommendation system to real users at meaningful scale. Strong opinions about retrieval hybrid versus dense evaluation offline versus online and LLM integration when to fine-tune versus prompt. Located in or willing to relocate to Noida or Pune India.
+
+Skills: information retrieval semantic search vector search hybrid search BM25 dense retrieval FAISS vector database NLP transformers sentence-transformers ranking reranking recommendation systems Python machine learning deep learning evaluation A/B testing NDCG embeddings RAG retrieval augmented generation.

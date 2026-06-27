@@ -1,0 +1,22 @@
+# Large precomputed vectors - regenerate with precompute scripts
+artifacts/*.npy
+
+# Keep these - small enough for git
+# artifacts/*.json
+# artifacts/*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# The raw candidate data - too large for git
+candidates.jsonl
+candidates.jsonl.gz
