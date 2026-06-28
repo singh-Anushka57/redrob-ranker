@@ -368,7 +368,7 @@ def rank_candidates(file_upload, json_text):
         for cand in candidates:
             try:
                 score = score_candidate(cand)
-                scored.append((cand, score))
+                scored.append((cand, round(score, 6)))
             except Exception:
                 pass
 

@@ -396,10 +396,14 @@ def main():
             "cand_raw": cand
         })
 
-    # Sort: final_score descending, candidate_id ascending for tie-break
-    scored_candidates.sort(key=lambda x: (-x["final_score"], x["candidate_id"]))
-    
-    # Get top 100
+    # 1. Round scores first for all scored candidates
+    for item in scored_candidates:
+        item["rounded_score"] = round(item["final_score"], 6)
+
+    # 2. Sort: score descending, candidate_id ascending for tie-break (validator requirement)
+    scored_candidates.sort(key=lambda x: (-x["rounded_score"], x["candidate_id"]))
+
+    # 3. Get top 100
     top_100 = scored_candidates[:100]
 
     # Validate honeypot rate
@@ -416,7 +420,7 @@ def main():
         prev_score = None
         for rank, item in enumerate(top_100, start=1):
             cid = item["candidate_id"]
-            score = round(item["final_score"], 6)
+            score = item["rounded_score"]
             
             # Ensure non-increasing scores by rank
             if prev_score is not None and score > prev_score:
